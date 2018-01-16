@@ -6,7 +6,6 @@ Easy start PHP template
 TODO:
 ------------------------------------
 
-- define project structure
 - Configure frontend task manager
 - create a tutorial
 
@@ -14,8 +13,11 @@ TODO:
 Project structure
 ------------------------------------
 
-- public/           # web server files, assets
-- resources/        # other resource files
-- src/              # PHP source code
-- view/             # view and layout files
-- docs/             # styleguide, changelog, readme, etc...
+- public/            web server files, assets
+- resources/         other resource files
+- src/               PHP source code
+- view/              view and layout files
+- docs/              styleguide, changelog, readme, etc...
+
+
+Gulp is used to manage all frontend tasks.
