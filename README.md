@@ -1,0 +1,1 @@
+Easy start PHP template
