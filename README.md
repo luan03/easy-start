@@ -7,8 +7,9 @@ TODO:
 ------------------------------------
 
 - Configure frontend task manager
-- create a tutorial
-
+- create a beginner tutorial
+- Include GA
+- format makefile
 
 Project structure
 ------------------------------------
