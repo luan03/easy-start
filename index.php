@@ -15,4 +15,4 @@ $twig = new Twig_Environment($loader, array(
 /**
  * Home page
  */
-require_once './controller/home.php';
+require_once './src/Controller/home.php';

@@ -6,7 +6,16 @@ Easy start PHP template
 TODO:
 ------------------------------------
 
-- Configure composer
-- install twig
 - define project structure
 - Configure frontend task manager
+- create a tutorial
+
+
+Project structure
+------------------------------------
+
+- public/           # web server files, assets
+- resources/        # other resource files
+- src/              # PHP source code
+- view/             # view and layout files
+- docs/             # styleguide, changelog, readme, etc...
