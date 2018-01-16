@@ -1,0 +1,12 @@
+{
+    "name": "luan/easy-start",
+    "require": {
+        "twig/twig": "^2.0"
+    },
+    "authors": [
+        {
+            "name": "Luan Fagundes",
+            "email": "luan03@msn.com"
+        }
+    ]
+}
